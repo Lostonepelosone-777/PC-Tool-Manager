@@ -47,42 +47,6 @@ A comprehensive system management application that provides real-time hardware m
 - **Privileges**: Administrator rights
 - **Internet**: Required for AI features
 
-## Installation
-
-### For End Users
-Download the latest release and run as administrator.
-
-
-```
-
-## Usage
-
-The application features a modern tabbed interface:
-- **Home** - System overview and quick actions
-- **Hardware Monitor** - Real-time hardware monitoring
-- **System Tools** - Built-in system utilities
-- **Security** - Security and sandbox tools
-- **AI Assistant** - AI-powered system assistance
-
-## Configuration
-
-Create a `config.ini` file with your settings:
-
-```ini
-[ollama]
-api_key = your_api_key_here
-model = llama2
-
-[monitoring]
-update_interval = 2
-temperature_alerts = true
-fan_control = true
-
-[security]
-sandbox_enabled = true
-virustotal_api = your_virustotal_key
-```
-
 ## Troubleshooting
 
 | Issue | Solution |
