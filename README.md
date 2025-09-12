@@ -57,12 +57,7 @@ A comprehensive system management application that provides real-time hardware m
 ### For End Users
 Download the latest release and run as administrator.
 
-### For Developers
-```bash
-git clone https://github.com/lostino-777/pc-tool-manager.git
-cd pc-tool-manager
-pip install -r requirements.txt
-python pc_tool_manager.pyw
+
 ```
 
 ## Usage
