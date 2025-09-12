@@ -3,8 +3,13 @@ PC Tool Manager - License and Legal Information
 
 SOFTWARE LICENSE
 ================
+<<<<<<< HEAD
 PC Tool Manager
 Copyright (c) 2025 Lostonepelosone-777
+=======
+PC Tool Manager - Lostonepelosone-777
+Copyright (c) 2025 
+>>>>>>> 529e062e347ba844449a908a85f01434558bcdbc
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
