@@ -10,7 +10,6 @@ modern, user-friendly interface.
 VERSION: 1.0
 DEVELOPER: Lostonepelosone-777
 CONTACT: lostonepelosone@gmail.com
-LICENSE: MIT License (see LICENSE.txt for details)
 
 FEATURES
 --------
@@ -119,9 +118,7 @@ Error Messages:
 
 SUPPORT
 -------
-- Documentation: See USER_GUIDE.md for detailed instructions
 - Credits: See CREDITS.txt for third-party tool information
-- License: See LICENSE.txt for legal information
 - Contact: lostonepelosone@gmail.com
 
 IMPORTANT NOTES
@@ -130,23 +127,6 @@ IMPORTANT NOTES
 - Some features may not work without proper permissions
 - Always backup important data before making system changes
 - Use this software at your own risk
-
-THIRD-PARTY TOOLS
------------------
-This application does NOT redistribute any third-party tools. Users must
-download and install third-party tools separately from their official sources.
-The application only provides integration and management interfaces.
-
-Please respect the licenses of all third-party tools and libraries used.
-See CREDITS.txt and LICENSE.txt for detailed information.
-
-DISCLAIMER
-----------
-This software is provided "as is" without warranty of any kind. Use at your
-own risk. The developer is not responsible for any damage that may occur from
-using this software or third-party tools.
-
-All trademarks and copyrights belong to their respective owners.
 
 CHANGELOG
 ---------
@@ -163,11 +143,7 @@ FILES INCLUDED
 - README.txt (This file)
 - README.md (Markdown version)
 - CREDITS.txt (Credits and acknowledgments)
-- LICENSE.txt (License and legal information)
 
-For the most up-to-date information and detailed documentation,
-please refer to the .md files included with this distribution.
 
 Thank you for using PC Tool Manager!
 
-© 2025 Lost-777 - All rights reserved.
