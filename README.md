@@ -39,7 +39,7 @@ A comprehensive system management application that provides real-time hardware m
 
 ## Quick Start
 
-1. Download the latest release from [Releases](https://github.com/lostino-777/pc-tool-manager/releases)
+1. Download the latest release from [Releases](https://github.com/Lostonepelosone-777/PC-Tool-Manager/releases)
 2. Right-click `PC_Tool_Manager.exe` → "Run as administrator"
 3. Allow Windows Defender if prompted
 4. Enjoy your new system management tool!
