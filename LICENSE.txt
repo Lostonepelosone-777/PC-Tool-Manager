@@ -1,0 +1,157 @@
+PC Tool Manager - License and Legal Information
+===============================================
+
+SOFTWARE LICENSE
+================
+PC Tool Manager
+Copyright (c) 2025 Lost-777
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+THIRD-PARTY SOFTWARE LICENSES
+=============================
+
+HWiNFO64
+--------
+Copyright (c) REALiX 1995-2025
+License: Freeware for personal use only
+Website: https://www.hwinfo.com/
+Terms: Personal use only, no commercial redistribution
+
+CPU-Z
+-----
+Copyright (c) CPUID 2000-2025
+License: Freeware
+Website: https://www.cpuid.com/
+Terms: Free for personal and commercial use
+
+CrystalDiskInfo & CrystalDiskMark
+---------------------------------
+Copyright (c) Crystal Dew World 2004-2025
+License: Freeware
+Website: https://crystalmark.info/
+Terms: Free for personal and commercial use
+
+FanControl
+----------
+Copyright (c) Rem0o 2020-2025
+License: MIT License
+Website: https://github.com/Rem0o/FanControl.Releases
+Terms: Open source, free for any use
+
+Process Explorer & Autoruns
+---------------------------
+Copyright (c) Microsoft Corporation 1996-2025
+License: Freeware (Microsoft Sysinternals)
+Website: https://docs.microsoft.com/en-us/sysinternals/
+Terms: Free for personal and commercial use
+
+Sandboxie-Plus
+--------------
+Copyright (c) Sandboxie-Plus Team 2020-2025
+License: GNU General Public License v3.0
+Website: https://sandboxie-plus.com/
+Terms: Open source, copyleft license
+
+VirusTotal API
+--------------
+Copyright (c) VirusTotal Ltd. 2004-2025
+License: Commercial API
+Website: https://www.virustotal.com/
+Terms: Requires API key, commercial terms apply
+
+Ollama
+------
+Copyright (c) Ollama Inc. 2023-2025
+License: MIT License
+Website: https://ollama.ai/
+Terms: Open source, free for any use
+
+IMPORTANT DISCLAIMERS
+=====================
+
+NO REDISTRIBUTION OF THIRD-PARTY TOOLS
+--------------------------------------
+This application does NOT redistribute any third-party tools or software.
+Users must download and install third-party tools separately from their
+official sources. This application only provides integration and management
+interfaces for these tools.
+
+NO WARRANTY FOR THIRD-PARTY TOOLS
+---------------------------------
+The developer of PC Tool Manager provides no warranty, support, or guarantee
+for the functionality, safety, or reliability of any third-party tools.
+Users are responsible for ensuring they have proper licenses and permissions
+to use any third-party software.
+
+COMPLIANCE REQUIREMENTS
+-----------------------
+Users must:
+1. Comply with all license terms of third-party tools
+2. Download tools only from official sources
+3. Respect copyright and trademark rights
+4. Use tools only for permitted purposes
+5. Obtain proper licenses for commercial use
+
+LIABILITY LIMITATIONS
+=====================
+
+NO LIABILITY FOR THIRD-PARTY TOOLS
+----------------------------------
+The developer of PC Tool Manager shall not be liable for any damages,
+losses, or issues arising from the use of third-party tools, including but
+not limited to:
+- System damage or data loss
+- Security vulnerabilities
+- Performance issues
+- License violations
+- Malware infections
+
+USER RESPONSIBILITY
+-------------------
+Users are solely responsible for:
+- Verifying tool authenticity and safety
+- Maintaining proper system backups
+- Following security best practices
+- Complying with all applicable laws
+- Obtaining necessary permissions
+
+TRADEMARK NOTICES
+=================
+All trademarks, service marks, and trade names are the property of their
+respective owners. This includes but is not limited to:
+- Microsoft, Windows (Microsoft Corporation)
+- HWiNFO (REALiX)
+- CPU-Z (CPUID)
+- CrystalDisk (Crystal Dew World)
+- FanControl (Rem0o)
+- Sandboxie (Sandboxie-Plus Team)
+- VirusTotal (VirusTotal Ltd.)
+- Ollama (Ollama Inc.)
+
+CONTACT INFORMATION
+===================
+For questions about this license or legal matters, please contact:
+lostonepelosone@gmail.com
+
+For questions about third-party tools, please contact their respective
+developers using the websites listed above.
+
+Last Updated: 2025
+Version: 1.0
