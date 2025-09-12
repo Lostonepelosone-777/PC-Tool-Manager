@@ -3,7 +3,7 @@
 [![Windows](https://img.shields.io/badge/Windows-10%2F11-blue.svg)](https://www.microsoft.com/windows)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-green.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.txt)
-[![Version](https://img.shields.io/badge/Version-1.0-orange.svg)](https://github.com/lostino-777/pc-tool-manager)
+[![Version](https://img.shields.io/badge/Version-1.0-orange.svg)](https://github.com/Lostonepelosone-777/PC-Tool-Manager)
 
 A comprehensive system management application that provides real-time hardware monitoring, system optimization, and security tools in a modern, user-friendly interface.
 
@@ -174,7 +174,7 @@ This application integrates with the following third-party tools. **Please note 
 
 ## Support
 
-- Issues: [GitHub Issues](https://github.com/lostino-777/pc-tool-manager/issues)
+- Issues: [GitHub Issues](https://github.com/Lostonepelosone-777/PC-Tool-Manager/issues)
 - Email: lostonepelosone@gmail.com
 
 ## Changelog
