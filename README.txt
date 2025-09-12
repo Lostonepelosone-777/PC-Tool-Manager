@@ -8,7 +8,7 @@ real-time hardware monitoring, system optimization, and security tools in a
 modern, user-friendly interface.
 
 VERSION: 1.0
-DEVELOPER: Lost-777
+DEVELOPER: Lostonepelosone-777
 CONTACT: lostonepelosone@gmail.com
 LICENSE: MIT License (see LICENSE.txt for details)
 
@@ -160,13 +160,10 @@ Version 1.0 (2025):
 
 FILES INCLUDED
 --------------
-- PC_Tool_Manager.exe (Main application)
 - README.txt (This file)
 - README.md (Markdown version)
-- USER_GUIDE.md (Detailed user guide)
 - CREDITS.txt (Credits and acknowledgments)
 - LICENSE.txt (License and legal information)
-- Avvia_PC_Tool_Manager.bat (Quick launcher)
 
 For the most up-to-date information and detailed documentation,
 please refer to the .md files included with this distribution.
