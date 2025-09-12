@@ -192,6 +192,7 @@ This application integrates with the following third-party tools. **Please note 
 **Made with ❤️ for system administrators and power users**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Lostonepelosone-777-black?style=for-the-badge&logo=github)](https://github.com/Lostonepelosone-777)
+
 [![Email](https://img.shields.io/badge/Email-losotnelsotn@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:lostonepelosone@gmail.com)
 
 **⭐ If you found this project helpful, please give it a star! ⭐**
