@@ -179,7 +179,6 @@ This application integrates with the following third-party tools. **Please note 
 
 ## Support
 
-- Documentation: [User Guide](USER_GUIDE.md)
 - Issues: [GitHub Issues](https://github.com/lostino-777/pc-tool-manager/issues)
 - Email: lostonepelosone@gmail.com
 
