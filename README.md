@@ -158,18 +158,6 @@ This application integrates with the following third-party tools. **Please note 
 - License: MIT License
 - Copyright: © Ollama Inc. 2023-2025
 
-### Important Legal Notices
-
-⚠️ **NO REDISTRIBUTION**: This application does NOT redistribute any third-party tools or software. Users must download and install third-party tools separately from their official sources.
-
-⚠️ **NO WARRANTY**: The developer of PC Tool Manager provides no warranty, support, or guarantee for the functionality, safety, or reliability of any third-party tools.
-
-⚠️ **USER RESPONSIBILITY**: Users are solely responsible for:
-- Complying with all license terms of third-party tools
-- Downloading tools only from official sources
-- Respecting copyright and trademark rights
-- Using tools only for permitted purposes
-- Obtaining proper licenses for commercial use
 
 ## Support
 
