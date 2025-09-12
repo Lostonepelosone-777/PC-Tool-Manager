@@ -6,10 +6,6 @@
 
 A comprehensive system management application that provides real-time hardware monitoring, system optimization, and security tools in a modern, user-friendly interface.
 
-## Important Legal Notice
-
-**This application does NOT redistribute any third-party tools or software.** Users must download and install third-party tools separately from their official sources. This application only provides integration and management interfaces for these tools.
-
 ## Features
 
 ### Hardware Monitoring
@@ -95,14 +91,6 @@ virustotal_api = your_virustotal_key
 | Hardware not detected | Install latest drivers |
 | Performance issues | Close unnecessary programs |
 | Access denied | Check file permissions |
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
-
-### Third-Party Software Licenses
-
-This application integrates with the following third-party tools. **Please note that this application does NOT redistribute any third-party software.** Users must download and install these tools separately from their official sources.
 
 #### Hardware Monitoring Tools
 
