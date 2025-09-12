@@ -2,7 +2,6 @@
 
 [![Windows](https://img.shields.io/badge/Windows-10%2F11-blue.svg)](https://www.microsoft.com/windows)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-green.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.txt)
 [![Version](https://img.shields.io/badge/Version-1.0-orange.svg)](https://github.com/lostino-777/pc-tool-manager)
 
 A comprehensive system management application that provides real-time hardware monitoring, system optimization, and security tools in a modern, user-friendly interface.
@@ -102,13 +101,6 @@ virustotal_api = your_virustotal_key
 | Performance issues | Close unnecessary programs |
 | Access denied | Check file permissions |
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
-
-### Third-Party Software Licenses
-
-This application integrates with the following third-party tools. **Please note that this application does NOT redistribute any third-party software.** Users must download and install these tools separately from their official sources.
 
 #### Hardware Monitoring Tools
 
@@ -164,18 +156,6 @@ This application integrates with the following third-party tools. **Please note 
 - License: MIT License
 - Copyright: © Ollama Inc. 2023-2025
 
-### Important Legal Notices
-
-⚠️ **NO REDISTRIBUTION**: This application does NOT redistribute any third-party tools or software. Users must download and install third-party tools separately from their official sources.
-
-⚠️ **NO WARRANTY**: The developer of PC Tool Manager provides no warranty, support, or guarantee for the functionality, safety, or reliability of any third-party tools.
-
-⚠️ **USER RESPONSIBILITY**: Users are solely responsible for:
-- Complying with all license terms of third-party tools
-- Downloading tools only from official sources
-- Respecting copyright and trademark rights
-- Using tools only for permitted purposes
-- Obtaining proper licenses for commercial use
 
 ## Support
 

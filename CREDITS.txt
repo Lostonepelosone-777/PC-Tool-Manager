@@ -2,15 +2,15 @@ PC Tool Manager - Credits and Acknowledgments
 =============================================
 
 DEVELOPER
----------
-• Main Developer: Lost-777
+---
+• Main Developer: Lostonepelosone-777
 • Project: PC Tool Manager
 • Version: 1.0
 • Date: 2025
 • Contact: lostonepelosone@gmail.com
 
 TECHNOLOGIES USED
------------------
+---
 • Python 3.x - Core programming language
 • CustomTkinter - Modern GUI framework
 • PyInstaller - Executable creation
@@ -22,10 +22,10 @@ TECHNOLOGIES USED
 • pywin32 - Windows API access
 
 THIRD-PARTY TOOLS INTEGRATED
-----------------------------
+---
 
 HWiNFO64
---------
+---
 • Developer: REALiX
 • Website: https://www.hwinfo.com/
 • License: Freeware for personal use
@@ -33,7 +33,7 @@ HWiNFO64
 • Description: Hardware information and monitoring utility
 
 CPU-Z
------
+---
 • Developer: CPUID
 • Website: https://www.cpuid.com/
 • License: Freeware
@@ -41,7 +41,7 @@ CPU-Z
 • Description: CPU information and system monitoring
 
 CrystalDiskInfo
----------------
+---
 • Developer: Crystal Dew World
 • Website: https://crystalmark.info/
 • License: Freeware
@@ -49,7 +49,7 @@ CrystalDiskInfo
 • Description: Hard disk health monitoring utility
 
 CrystalDiskMark
----------------
+---
 • Developer: Crystal Dew World
 • Website: https://crystalmark.info/
 • License: Freeware
@@ -57,7 +57,7 @@ CrystalDiskMark
 • Description: Hard disk benchmark utility
 
 FanControl
-----------
+---
 • Developer: Rem0o
 • Website: https://github.com/Rem0o/FanControl.Releases
 • License: MIT License
@@ -65,7 +65,7 @@ FanControl
 • Description: Fan speed control utility
 
 Process Explorer
-----------------
+---
 • Developer: Microsoft Corporation
 • Website: https://docs.microsoft.com/en-us/sysinternals/
 • License: Freeware
@@ -73,7 +73,7 @@ Process Explorer
 • Description: Process monitoring and management utility
 
 Autoruns
---------
+---
 • Developer: Microsoft Corporation
 • Website: https://docs.microsoft.com/en-us/sysinternals/
 • License: Freeware
@@ -81,7 +81,7 @@ Autoruns
 • Description: Startup program management utility
 
 Sandboxie-Plus
---------------
+---
 • Developer: Sandboxie-Plus Team
 • Website: https://sandboxie-plus.com/
 • License: GNU General Public License v3.0
@@ -89,7 +89,7 @@ Sandboxie-Plus
 • Description: Sandbox execution environment
 
 LIBRARIES AND FRAMEWORKS
-------------------------
+---
 • tkinter - Base GUI framework
 • threading - Multi-threading support
 • subprocess - Process execution
@@ -104,7 +104,7 @@ LIBRARIES AND FRAMEWORKS
 • tempfile - Temporary file handling
 
 SPECIAL THANKS
---------------
+---
 • CustomTkinter community for the excellent GUI framework
 • Python community for extensive documentation and support
 • Windows API documentation providers
@@ -112,7 +112,7 @@ SPECIAL THANKS
 • Open source community for inspiration and resources
 
 THIRD-PARTY LICENSES
---------------------
+---
 • HWiNFO64: Freeware for personal use only
 • CPU-Z: Freeware
 • CrystalDiskInfo: Freeware
@@ -123,7 +123,7 @@ THIRD-PARTY LICENSES
 • Sandboxie-Plus: GNU General Public License v3.0
 
 EXTERNAL SERVICES
------------------
+---
 VirusTotal
 • Service: VirusTotal API
 • Website: https://www.virustotal.com/
@@ -138,40 +138,9 @@ Ollama
 • Copyright: © Ollama Inc. 2023-2025
 • Description: Local AI model hosting and inference
 
-IMPORTANT LEGAL NOTICES
------------------------
-• All third-party tools retain their original licenses
-• Users must comply with individual tool license terms
-• Some tools may require separate download and installation
-• Commercial use restrictions may apply to certain tools
-• Please review each tool's license before use
-
-REDISTRIBUTION NOTICE
----------------------
-• This application does not redistribute third-party tools
-• Users must download tools separately from official sources
-• Application only provides integration and management interface
-• No warranty provided for third-party tool functionality
-
-PROJECT LICENSE
----------------
-This project is provided as-is for educational and personal use.
-Please respect the licenses of all third-party tools and libraries used.
-
-DISCLAIMER
-----------
-This software is provided "as is" without warranty of any kind.
-Use at your own risk. The developer is not responsible for any
-damage that may occur from using this software or third-party tools.
-
-The developer does not claim ownership of any third-party tools
-or their intellectual property. All trademarks and copyrights
-belong to their respective owners.
 
 CONTACT
--------
+---
 For questions, suggestions, or support, please contact:
 Email: lostonepelosone@gmail.com
 Developer: Lost-777
-
-© 2025 PC Tool Manager - All rights reserved.
