@@ -3,7 +3,7 @@ PC Tool Manager - Credits and Acknowledgments
 
 DEVELOPER
 ---------
-• Main Developer: Lost-777
+• Main Developer: Lostonepelosone-777
 • Project: PC Tool Manager
 • Version: 1.0
 • Date: 2025
@@ -138,40 +138,10 @@ Ollama
 • Copyright: © Ollama Inc. 2023-2025
 • Description: Local AI model hosting and inference
 
-IMPORTANT LEGAL NOTICES
------------------------
-• All third-party tools retain their original licenses
-• Users must comply with individual tool license terms
-• Some tools may require separate download and installation
-• Commercial use restrictions may apply to certain tools
-• Please review each tool's license before use
-
-REDISTRIBUTION NOTICE
----------------------
-• This application does not redistribute third-party tools
-• Users must download tools separately from official sources
-• Application only provides integration and management interface
-• No warranty provided for third-party tool functionality
-
-PROJECT LICENSE
----------------
-This project is provided as-is for educational and personal use.
-Please respect the licenses of all third-party tools and libraries used.
-
-DISCLAIMER
-----------
-This software is provided "as is" without warranty of any kind.
-Use at your own risk. The developer is not responsible for any
-damage that may occur from using this software or third-party tools.
-
-The developer does not claim ownership of any third-party tools
-or their intellectual property. All trademarks and copyrights
-belong to their respective owners.
 
 CONTACT
 -------
 For questions, suggestions, or support, please contact:
 Email: lostonepelosone@gmail.com
-Developer: Lost-777
+Developer: Lostonepelosone-777
 
-© 2025 PC Tool Manager - All rights reserved.
