@@ -2,7 +2,7 @@
 
 [![Windows](https://img.shields.io/badge/Windows-10%2F11-blue.svg)](https://www.microsoft.com/windows)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-green.svg)](https://www.python.org/)
-[![Version](https://img.shields.io/badge/Version-1.0-orange.svg)](https://github.com/lostino-777/pc-tool-manager)
+[![Version](https://img.shields.io/badge/Version-1.0-orange.svg)](https://github.com/Lostonepelosone-777/PC-Tool-Manager)
 
 A comprehensive system management application that provides real-time hardware monitoring, system optimization, and security tools in a modern, user-friendly interface.
 
@@ -34,7 +34,7 @@ A comprehensive system management application that provides real-time hardware m
 
 ## Quick Start
 
-1. Download the latest release from [Releases](https://github.com/lostino-777/pc-tool-manager/releases)
+1. Download the latest release from [Releases](https://github.com/Lostonepelosone-777/PC-Tool-Manager/releases)
 2. Right-click `PC_Tool_Manager.exe` → "Run as administrator"
 3. Allow Windows Defender if prompted
 4. Enjoy your new system management tool!
@@ -51,14 +51,6 @@ A comprehensive system management application that provides real-time hardware m
 
 ### For End Users
 Download the latest release and run as administrator.
-
-### For Developers
-```bash
-git clone https://github.com/lostino-777/pc-tool-manager.git
-cd pc-tool-manager
-pip install -r requirements.txt
-python pc_tool_manager.pyw
-```
 
 ## Usage
 
@@ -155,7 +147,7 @@ virustotal_api = your_virustotal_key
 
 ## Support
 
-- Issues: [GitHub Issues](https://github.com/lostino-777/pc-tool-manager/issues)
+- Issues: [GitHub Issues](https://github.com/Lostonepelosone-777/PC-Tool-Manager/issues)
 - Email: lostonepelosone@gmail.com
 
 ## Changelog
