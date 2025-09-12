@@ -2,13 +2,9 @@
 
 [![Windows](https://img.shields.io/badge/Windows-10%2F11-blue.svg)](https://www.microsoft.com/windows)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-green.svg)](https://www.python.org/)
-[![Version](https://img.shields.io/badge/Version-1.0-orange.svg)](https://github.com/Lostonepelosone-777/PC-Tool-Manager)
+[![Version](https://img.shields.io/badge/Version-1.0-orange.svg)](https://github.com/lostino-777/pc-tool-manager)
 
 A comprehensive system management application that provides real-time hardware monitoring, system optimization, and security tools in a modern, user-friendly interface.
-
-## Important Legal Notice
-
-**This application does NOT redistribute any third-party tools or software.** Users must download and install third-party tools separately from their official sources. This application only provides integration and management interfaces for these tools.
 
 ## Features
 
@@ -38,7 +34,7 @@ A comprehensive system management application that provides real-time hardware m
 
 ## Quick Start
 
-1. Download the latest release from [Releases](https://github.com/Lostonepelosone-777/PC-Tool-Manager/releases)
+1. Download the latest release from [Releases](https://github.com/lostino-777/pc-tool-manager/releases)
 2. Right-click `PC_Tool_Manager.exe` → "Run as administrator"
 3. Allow Windows Defender if prompted
 4. Enjoy your new system management tool!
@@ -56,7 +52,12 @@ A comprehensive system management application that provides real-time hardware m
 ### For End Users
 Download the latest release and run as administrator.
 
-
+### For Developers
+```bash
+git clone https://github.com/lostino-777/pc-tool-manager.git
+cd pc-tool-manager
+pip install -r requirements.txt
+python pc_tool_manager.pyw
 ```
 
 ## Usage
@@ -96,13 +97,6 @@ virustotal_api = your_virustotal_key
 | Performance issues | Close unnecessary programs |
 | Access denied | Check file permissions |
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
-
-### Third-Party Software Licenses
-
-This application integrates with the following third-party tools. **Please note that this application does NOT redistribute any third-party software.** Users must download and install these tools separately from their official sources.
 
 #### Hardware Monitoring Tools
 
@@ -161,7 +155,7 @@ This application integrates with the following third-party tools. **Please note 
 
 ## Support
 
-- Issues: [GitHub Issues](https://github.com/Lostonepelosone-777/PC-Tool-Manager/issues)
+- Issues: [GitHub Issues](https://github.com/lostino-777/pc-tool-manager/issues)
 - Email: lostonepelosone@gmail.com
 
 ## Changelog
@@ -179,7 +173,6 @@ This application integrates with the following third-party tools. **Please note 
 **Made with ❤️ for system administrators and power users**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Lostonepelosone-777-black?style=for-the-badge&logo=github)](https://github.com/Lostonepelosone-777)
-
 [![Email](https://img.shields.io/badge/Email-losotnelsotn@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:lostonepelosone@gmail.com)
 
 **⭐ If you found this project helpful, please give it a star! ⭐**
