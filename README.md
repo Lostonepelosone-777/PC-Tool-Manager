@@ -104,7 +104,7 @@ PC Tool Manager is a modern, user-friendly desktop application built with Python
 
 #### Standard Launch
 ```bash
-python main.py
+python pc_tool_manager_complete.py
 ```
 
 #### Launch Without Console Window
@@ -315,5 +315,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ Star this repo if you find it helpful!
 
 </div>
+
 
 
