@@ -78,7 +78,7 @@ PC Tool Manager is a modern, user-friendly desktop application built with Python
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Lost-777/pc-tool-manager.git
+   git clone https://github.com/Lostonepelosone-777/pc-tool-manager.git
    cd pc-tool-manager
    ```
 
@@ -293,8 +293,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/Lost-777/pc-tool-manager/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/Lost-777/pc-tool-manager/discussions)
+- **Issues**: [GitHub Issues](https://github.com/Lostonepelosone-777/PC-Tool-Manager/issues)
 
 ---
 
@@ -311,9 +310,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with ❤️ by Lost-777**
+**Made with ❤️ by Lostonepelosone-777**
 
 ⭐ Star this repo if you find it helpful!
 
 </div>
+
 
