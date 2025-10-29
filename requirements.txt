@@ -1,0 +1,6 @@
+customtkinter
+psutil>=5.8.0
+ollama
+requests
+pywin32
+Pillow
